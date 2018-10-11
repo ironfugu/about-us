@@ -2,13 +2,17 @@ Welcome to our development culture document.  Here describes how we view the wor
 
 ## Our Mission
 
-`Any hardware combination, any OS, any location, our DC or yours, 100% successful provisions under 60 seconds`
+`Any hardware combination, any OS, any location, in our DC or yours, 100% successful provisions under 60 seconds`
 
 ## Our Company Core Values
 
+* We are excited about leading our industry.
+* We are driven, ambitious and persistent people.
+* We find creative solutions to hard problems.
+* We are effective at getting things done the right way.
+* We are community minded and do the right thing.
 
-
-## Doing it right with Core Behaviors
+## Enforced through Core Behaviors
 
  * __Care about...__ - This is the most important behavior as all other behaviors depend on this
       * Care about the craftmanship of your work.

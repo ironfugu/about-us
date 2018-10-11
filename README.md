@@ -1,10 +1,10 @@
 ## Our Interview Process
 
 * Have desire to work for us or got a warm intro from an fellow Packeteer
- * Carefully read our [dev culture](culture.md) doc
+ * Carefully read our [dev culture](dev_culture.md) doc
 * Initial HR Phone Screen
 * Send us your Bam (Be a Mentor) / Sams (Seek a mentor) YAML file (using your GitHub handle as the name)
-* Initial Tech Screen - convo about your 
+* Initial Tech Screen - casual convo about your past experience
 * Onsite Process - This would typically be an entire day at our NYC or Palo Alto office
     * Interview 1 : With a peer or two on your Bam (1 hour)
     * Interview 2 : With a mentee or two on your Bam (1 hour)
