@@ -1,0 +1,35 @@
+name: Bruce Wang
+location: 'San Francisco, CA'
+timezone: UTC-07
+# be a mentor
+bam:
+    skills:
+        - 'Process / Culture / Team building'
+        - 'Business and Value minded'
+        - 'Breaking down complex tasks into small iterative steps'
+        - 'Diverse programming language experience'
+        - 'Cross Vector Thinking'
+    languages:
+        # list in order of most recent or familiarity
+        - Golang
+        - Elixir
+        - Ruby
+    frameworks:
+        # list in order of most recent
+        - Phoenix
+        - Rails
+# seek a mentor
+sam:
+    skills:
+        - 'No deep expertise in any one language or framework'
+        - 'Talk too much, sometimes don’t give the space for others to speak'
+        - 'Lack of hyper scale experience'
+        - 'Lack of hardware / hosting experience'
+        - 'can move too fast without all the info'
+    languages:
+        - Javascript
+        - Rust
+    frameworks:
+        - React
+        - Angular
+        - NodeJS
