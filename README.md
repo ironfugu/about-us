@@ -1,7 +1,7 @@
 ## Our Interview Process
 
-* Have desire to work for us or got a warm intro from an fellow Packeteer
- * Carefully read our [dev culture](dev_culture.md) doc
+* Apply for a [job](https://www.packet.com/about/careers/) which will go through our hiring system.
+* Carefully read our [dev culture](dev_culture.md) doc
 * Initial HR Phone Screen
 * Send us your Bam (Be a Mentor) / Sams (Seek a mentor) YAML file (using your GitHub handle as the name)
 * Initial Tech Screen - casual convo about your past experience
@@ -20,8 +20,6 @@
  * Hiring manager will have final say
 * Executive Interview - With CTO or CEO
 * Reference Check
-
-More details are in our private [trello](https://trello.com/b/pVJcxCm6/software-hiring) board.
 
 ### Resources
 

@@ -4,14 +4,14 @@ Most of these should be doable in 3-4 hours of time.  If the person is remote, I
 
 ### Improve our API / Refactoring
 
-Level : Seniorn    
+Level : Senior    
 Time : 4 - 8 hours   
 Type : Backend   
 
 * Login to our [NewRelic account](https://rpm.newrelic.com/accounts/45249/applications/9068939)
- * Provide 3 areas of suggestions for the code base
- * Out of the 3, pick one area which you'd like to explore
-* Provide the candidate a "redacted" version of our API code base
+  * Provide 3 areas of suggestions for the code base
+  * Out of the 3, pick one area which you'd like to explore
+* Review "redacted" version of our API code base
 * Issue PR for refactor of the "trouble" area
 
 ### Break the monolith
@@ -21,11 +21,12 @@ Time : 8-16 hours
 Type : Backend   
 
 * Provide a "redacted" version of our API code base
-* Review the code base and decide what areas would you suggest to refactor and to break up into several "macro-services".  Below are areas to review
- * Our `app/jobs/` directory
- * Our `lib/` directory
- * Our `spec` directory
- * Our `routes.rb` file
+* Review the code base and decide what areas would you suggest to refactor and to break up into several "macro-services".
+* Below are suggested areas to review:
+  * Our `app/jobs/` directory
+  * Our `lib/` directory
+  * Our `spec` directory
+  * Our `routes.rb` file
 
 ### Improve our SDKs
 
@@ -45,8 +46,8 @@ Type : Backend
 
 * Provider person with a dev account.
 * Use our API / SDKs / Getting started guide to launch a small farm of machines to run a frontend/backend "hello world" app.
- * The front end should display a message
- * THe backend API should provide the response that the front-end should display, start with "Hello World"
+  * The front end should display a message
+  * The backend API should provide the response that the front-end should display, start with "Hello World"
 
 ### Improve our UI
 
@@ -59,14 +60,10 @@ Type : Frontend
 * Provide access to our Staff Portal code base
 * Debug on what you think the problem is
 
-### Script to review our bam/sams
+### Helpful tools
 
 Level : Any   
 Time : 4-8 hours   
-Type : Backend   
+Type : Any.   
 
-* Create a program to review our "employees" and "candidates" yml file and decide how to match up people for interviews.  Match up 1 or 2 employyes who are:
- * are "bams" peers to the candidate
- * are "sams" to the candidate
- * are "bams" to the candidate's sam
-* It should output an interview schedule and highlight what the match citeria was on to help focus the interview
+Select an [issue](https://github.com/packethost/interview/issues) and pick one todo.
