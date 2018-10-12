@@ -85,3 +85,8 @@ Squad Name    | Main Focus | SLO | Product Owner
 [Deadlift](https://packet.atlassian.net/secure/RapidBoard.jspa?rapidView=65) | Production Engineering | [Platform Availability]() | Shahar
 [Cloud Interconnect]() | Interconnecting networks, cloud provider integrations | Patrick
 [CMR](https://packet.atlassian.net/secure/RapidBoard.jspa?rapidView=66&projectKey=SWE) | business systems integrations, billing and usage | TBD | Bruce
+=======
+
+### Resources
+
+* Our [Interview](interview.md) process

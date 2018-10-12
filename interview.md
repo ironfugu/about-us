@@ -23,4 +23,4 @@
 
 ### Resources
 
-* Get an idea of how we think about interviews by reading this [article](http://firstround.com/review/my-lessons-from-interviewing-400-engineers-over-three-startups/)
+* Excellent [article](http://firstround.com/review/my-lessons-from-interviewing-400-engineers-over-three-startups/) about interviewing
