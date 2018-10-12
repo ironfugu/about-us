@@ -1,6 +1,6 @@
 Welcome to our development culture document.  Here describes how we view the world and behaviors and ideals that make you successful here at Packet
 
-## Our Mission
+### Our Mission
 
 `Any hardware combination, any OS, any location, in our DC or yours, 100% successful provisions under 60 seconds`
 
@@ -12,7 +12,7 @@ Welcome to our development culture document.  Here describes how we view the wor
 * We are effective at getting things done the right way.
 * We are community minded and do the right thing.
 
-## Done right through Core Behaviors
+### Done right through Core Behaviors
 
  * __Care about...__ - This is the most important behavior as all other behaviors depend on this
       * Care about the craftmanship of your work.
@@ -44,7 +44,7 @@ Welcome to our development culture document.  Here describes how we view the wor
 
 If you retain anything from this article, it is the core behaviors from above.  We live by this, we hire by this, we fire by this.  You can view our past [hiring](https://trello.com/b/pVJcxCm6/software-hiring) decisions based on this.
 
-## How and why we do it
+### How and why we do it
 
 Here are things we specifically do to help achieve our mission
 
@@ -76,17 +76,16 @@ DevOps Culture| Everyone should know how stuff runs and keep an eye that service
 
 We've adapted the "Spotify" [model](https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf) for scaling our teams.  We only have one tribe for now, but a few squads, chapters and guilds.
 
-SWE's Tribe [Overview & Roadmap](https://trello.com/b/A814D0t8/software-eng-roadmap)
-
 Squad Name    | Main Focus | SLO | Product Owner 
 :-------------|----------- | --- | ------------- 
 [X-force](https://packet.atlassian.net/secure/RapidBoard.jspa?rapidView=60&useStoredSettings=true) |experience for our customers, dev users and staff | [API Apdex](https://synthetics.newrelic.com/accounts/45249/monitors/ee8b6b9b-7373-411d-a801-67708572e293/sla?view=daily-sla-report) | Linda
 [Suicide Squad](https://packet.atlassian.net/secure/RapidBoard.jspa?rapidView=61&useStoredSettings=true) | provision services | [VIP Successful Provision %](https://northstar.packet.net/d/71i_Y0Jmz/vip-provision-metrics?orgId=1) | Lucas
 [Deadlift](https://packet.atlassian.net/secure/RapidBoard.jspa?rapidView=65) | Production Engineering | [Platform Availability]() | Shahar
-[Cloud Interconnect]() | Interconnecting networks, cloud provider integrations | Patrick
+[Cloud Interconnect]() | Interconnecting networks, cloud provider integrations | TBD | Patrick
 [CMR](https://packet.atlassian.net/secure/RapidBoard.jspa?rapidView=66&projectKey=SWE) | business systems integrations, billing and usage | TBD | Bruce
-=======
+
 
 ### Resources
 
 * Our [Interview](interview.md) process
+* SWE [Overview & Roadmap](https://trello.com/b/A814D0t8/software-eng-roadmap) (private)
