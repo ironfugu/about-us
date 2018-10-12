@@ -16,7 +16,7 @@
     * Zoom Interview 2 : With a mentee or two on your Bam
     * Tech Challenge : Select a [challenge](coding_fun.md) and have up to a week to complete
 * Team Huddle
- * Everyone has an opnion : Strong Hire / Hire / Don't Hire / Strong Don't hire
+ * Everyone has an opinion : Strong Hire / Hire / Don't Hire / Strong Don't hire
  * Hiring manager will have final say
 * Executive Interview - With CTO or CEO
 * Reference Check
