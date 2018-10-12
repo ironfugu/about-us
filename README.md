@@ -4,7 +4,7 @@ Welcome to our development culture document.  Here describes how we view the wor
 
 `Any hardware combination, any OS, any location, in our DC or yours, 100% successful provisions under 60 seconds`
 
-## Our Company Core Values
+### Our Company Core Values
 
 * We are excited about leading our industry.
 * We are driven, ambitious and persistent people.
@@ -72,7 +72,7 @@ Tight CI/CD | The way we can ship the code quickly and confidently | GithHub, Dr
 Automated System/UI Testing | Once code is in production, is it really working?  Running things like Runscope against the API gives us confidence that new changes didn't mess up prod | ???
 DevOps Culture| Everyone should know how stuff runs and keep an eye that services are working as expected | Rollbar, NewRelic, ???
 
-## Our Team
+### Our Team
 
 We've adapted the "Spotify" [model](https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf) for scaling our teams.  We only have one tribe for now, but a few squads, chapters and guilds.
 
