@@ -12,7 +12,7 @@ Welcome to our development culture document.  Here describes how we view the wor
 * We are effective at getting things done the right way.
 * We are community minded and do the right thing.
 
-## Enforced through Core Behaviors
+## Done right through Core Behaviors
 
  * __Care about...__ - This is the most important behavior as all other behaviors depend on this
       * Care about the craftmanship of your work.
