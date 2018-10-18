@@ -21,6 +21,12 @@ Welcome to our development culture document.  Here describes how we view the wor
       * Care about standards or quality.
       * Care about learning and growing your skills.
 
+ * __Take small purposeful steps__ - We are doing some great things, but we can only get there one commit at a time.
+      * Think "why" am I working on this
+      * Think "how" can I do this in incremental steps
+      * Think "who" else do I need help or info from
+      * Practice makes perfect
+
  * __Listen then collaborate__ - Listen to understand, rather than to respond
       * Listen with empathy, understand the other's point of view
       * Give your full attention
@@ -36,13 +42,7 @@ Welcome to our development culture document.  Here describes how we view the wor
       * Pick the right tool for the job
       * There's always multiple ways to do something, explore them      
 
- * __Take small purposeful steps__ - We are doing some great things, but we can only get there one commit at a time.
-      * Think "why" am I working on this
-      * Think "how" can I do this in incremental steps
-      * Think "who" else do I need help or info from
-      * Practice makes perfect
-
-If you retain anything from this article, it is the core behaviors from above.  We live by this, we hire by this, we fire by this.  You can view our past [hiring](https://trello.com/b/pVJcxCm6/software-hiring) decisions based on this.
+If you retain anything from this article, it is the core behaviors from above.  We live by this, we hire by this, we fire by this.
 
 ### How and why we do it
 
