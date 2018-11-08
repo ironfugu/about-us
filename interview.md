@@ -2,24 +2,37 @@
 
 * Apply for a [job](https://www.packet.com/about/careers/) which will go through our hiring system.
 * Carefully read our [dev culture](README.md) doc
-* Initial HR Phone Screen
 * Send us your Bam (Be a Mentor) / Sams (Seek a mentor).  [Examples](bam-sam-examples/) here.  Please use your GitHub handle as the filename.
-* Initial Tech Screen - casual convo about your past experience
+* Initial Zoom Screen - casual convo about your past experience.  Here are some [example](example_questions.md) questions.
 * Onsite Process - This would typically be an entire day at our NYC or Palo Alto office
-    * Interview 1 : With a peer or two on your Bam (1 hour)
-    * Interview 2 : With a mentee or two on your Bam (1 hour)
-    * Interview 3 : With a mentor or two on your Sam (1 hour)
-    * Lunch : Casual chat with some team members (1 hour)
-    * Tech Screen : 2-4 hours talking about the right [challenge](coding_fun.md)
+    * Interview 1 : Core Behaviors Review (1 hour)
+    * Interview 2 : System Design / Architecture Review (1 hour)
+    * Interview 3 : Language/Framework Specific (1 hour)
+    * Lunch : Casual lunch with some team members (1 hour)
+    * Technical Coding Fun : 2-4 hours talking about the right [challenge](coding_fun.md).  You will need to your laptop.  If you don't have one, we can arrange for one to use.
 * Remote Process - This process may span a week, but ideally it would be within a week
-    * Zoom Interview 1 : With a peer or two on your Bam
-    * Zoom Interview 2 : With a mentee or two on your Bam
+    * Interview 1 : Core Behaviors Review (1 hour)
+    * Interview 2 : System Design / Architecture Review (1 hour)
+    * Interview 3 : Language/Framework Specific (1 hour)
     * Tech Challenge : Select a [challenge](coding_fun.md) and have up to a week to complete
-* Team Huddle
- * Everyone has an opnion : Strong Hire / Hire / Don't Hire / Strong Don't hire
+* Team Huddle via Google Hire
+ * Provide your feedback, Summary based on +2 / +1 / 0 / -1 / -2
+ * Meeting required if there's vast difference in opinion
  * Hiring manager will have final say
 * Executive Interview - With CTO or CEO
 * Reference Check
+
+### Interview Teams
+
+Team          | Language / Framework Focus | System Design Focus
+:-------------|--------------------------- | --------------------
+Enzo, Emi     | Ruby on Rails, AngularJS | REST API Related
+Shahar, Phil  | Python, PHP | SRE/DevOps, Hashisuite
+Patrick, Tony | Ruby on Rails, Go, ReactJS | SRE/DevOps, Network
+Manny, Victor  | Ruby on Rails, Go | Microservices, Provisioning
+James, Dave  | Ruby on Rails, Go | Provisioning, Infrastructure Design
+Jessica, Nanang | AngularJS | UI/UX Flow
+Linda, Golden | N/A | Agile Development, Core Behaviors
 
 ### Resources
 
