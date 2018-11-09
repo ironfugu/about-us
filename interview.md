@@ -16,9 +16,9 @@
     * Interview 3 : Language/Framework Specific (1 hour)
     * Tech Challenge : Select a [challenge](coding_fun.md) and have up to a week to complete
 * Team Huddle via Google Hire
- * Provide your feedback, Summary based on +2 / +1 / 0 / -1 / -2
- * Meeting required if there's vast difference in opinion
- * Hiring manager will have final say
+  * Provide your feedback, Summary based on +2 / +1 / 0 / -1 / -2
+  * Meeting required if there's vast difference in opinion
+  * Hiring manager will have final say
 * Executive Interview - With CTO or CEO
 * Reference Check
 
