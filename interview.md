@@ -29,7 +29,8 @@ Team          | Language / Framework Focus | System Design Focus
 Enzo, Emi     | Ruby on Rails, AngularJS | REST API Related
 Shahar, Phil  | Python, PHP | SRE/DevOps, Hashisuite
 Patrick, Tony | Ruby on Rails, Go, ReactJS | SRE/DevOps, Network
-Manny, Victor  | Ruby on Rails, Go | Microservices, Provisioning
+Lucas, Mat    | Ruby on Rails, AngularJS | REST API Related
+Manny, Victor | Ruby on Rails, Go | Microservices, Provisioning
 James, Dave  | Ruby on Rails, Go | Provisioning, Infrastructure Design
 Jessica, Nanang | AngularJS | UI/UX Flow
 Linda, Golden | N/A | Agile Development, Core Behaviors
