@@ -69,8 +69,8 @@ __DevOps__
 What   | Reasoning | Tooling
 :------- | ----- | ---------
 Tight CI/CD | The way we can ship the code quickly and confidently | GithHub, Drone, Quay.io, Hashistack
-Automated System/UI Testing | Once code is in production, is it really working?  Running things like Runscope against the API gives us confidence that new changes didn't mess up prod | ???
-DevOps Culture| Everyone should know how stuff runs and keep an eye that services are working as expected | Rollbar, NewRelic, ???
+Automated System/UI Testing | Once code is in production, is it really working?  Running things like Runscope against the API gives us confidence that new changes didn't mess up prod | Runscope
+DevOps Culture| Everyone should know how stuff runs and keep an eye that services are working as expected | Rollbar, NewRelic, Hashistack
 
 ### Our Team
 
