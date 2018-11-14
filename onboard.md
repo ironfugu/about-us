@@ -11,6 +11,8 @@ __Pre-requsite Work__
 __Day 1__
 
 * Given GitHub access (and start Blissful onboard process to all tools you'll need)
+* Given access to Atlassian JIRA/WIki
+* Review [New Employee Guideline](https://packet.atlassian.net/wiki/spaces/ID/pages/33169/New+Employee+Guide)
 * Given company issued equipment
 * Read through our [getting-started](https://github.com/packethost/getting-started) guide and make suggestions!  It should cover
   * Overview of our SDLC
