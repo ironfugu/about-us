@@ -80,9 +80,9 @@ Squad Name    | Main Focus | SLO | Product Owner
 :-------------|----------- | --- | ------------- 
 [X-force](https://packet.atlassian.net/secure/RapidBoard.jspa?rapidView=60&useStoredSettings=true) |experience for our customers and staff | [API Apdex](https://synthetics.newrelic.com/accounts/45249/monitors/ee8b6b9b-7373-411d-a801-67708572e293/sla?view=daily-sla-report) | Linda
 [Dev Exp/Cloud Interconnect]() | Developer Tools Integration, Interconnecting cloud provider | TBD | Patrick
-[Suicide Squad](https://packet.atlassian.net/secure/RapidBoard.jspa?rapidView=61&useStoredSettings=true) | provision services | [VIP Successful Provision %](https://northstar.packet.net/d/71i_Y0Jmz/vip-provision-metrics?orgId=1) | Lucas
+[Suicide Squad](https://packet.atlassian.net/secure/RapidBoard.jspa?rapidView=61&useStoredSettings=true) (SuS) | provision services | [VIP Successful Provision %](https://northstar.packet.net/d/71i_Y0Jmz/vip-provision-metrics?orgId=1) | Lucas
 [Deadlift](https://packet.atlassian.net/secure/RapidBoard.jspa?rapidView=65) | Production Engineering | [Platform Availability]() | Shahar
-[CMR](https://packet.atlassian.net/secure/RapidBoard.jspa?rapidView=66&projectKey=SWE) | business systems integrations, billing and usage | TBD | Bruce
+[CMR](https://packet.atlassian.net/secure/RapidBoard.jspa?rapidView=66&projectKey=SWE) | business systems integrations, billing and usage | TBD | TBD
 
 
 ### Resources
