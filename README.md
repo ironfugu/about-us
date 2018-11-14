@@ -87,5 +87,6 @@ Squad Name    | Main Focus | SLO | Product Owner
 
 ### Resources
 
-* Our [Interview](interview.md) process
-* SWE [Overview & Roadmap](https://trello.com/b/A814D0t8/software-eng-roadmap) (private)
+* Our [Interview](interview.md) process    
+* Our [Onboarding](onboard.md) process    
+* SWE [Overview & Roadmap](https://trello.com/b/A814D0t8/software-eng-roadmap) (private)    
