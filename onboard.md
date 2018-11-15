@@ -35,7 +35,7 @@ __Month 1__
 * Worked with your lead to create Lattice goals and start hitting them
 * Participated in our goalie and on-call process.
 
-__Momth 2__
+__Month 2__
 
 * Helped make substantive improvements by contributing to multiple epics and across milestones.
 * Deeper understanding on how the overall architecture works and how the services work together
