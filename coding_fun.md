@@ -38,6 +38,19 @@ Type : Backend
 * Review the SDK and then make changes to it and issue a PR
 * The interviewer will do a code review with the person and walk through the changes
 
+### Build a lightweight integration
+
+Level : Any
+Time : 2-4 hours
+Type : Any
+
+* Pick a language
+* Build an interface to our SDK, which allows you to launch a machine and tear it down
+  * If its a frontend language, build a UI
+  * If its a backend language, build a CLI
+* Extra Credit
+  * Pick any additional capabilities in our API that you'd think would be useful to add to the interface
+
 ### Be a customer
 
 Level : Any   
