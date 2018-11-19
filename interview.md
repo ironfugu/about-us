@@ -9,12 +9,12 @@
     * Interview 2 : System Design / Architecture Review (1 hour)
     * Interview 3 : Language/Framework Specific (1 hour)
     * Lunch : Casual lunch with some team members (1 hour)
-    * Technical Coding Fun : 2-4 hours talking about the right [challenge](coding_fun.md).  You will need to your laptop.  If you don't have one, we can arrange for one to use.
+    * Technical Coding Fun : 2 hours for a tech [challenge](coding_fun.md).  You will need a computer.  If you don't have one, we can arrange for one to use.
 * Remote Process - This process may span a week, but ideally it would be within a week
     * Interview 1 : Core Behaviors Review (1 hour)
     * Interview 2 : System Design / Architecture Review (1 hour)
     * Interview 3 : Language/Framework Specific (1 hour)
-    * Tech Challenge : Select a [challenge](coding_fun.md) and have up to a week to complete
+    * Technical Coding Fun : 2 hours for a tech [challenge](coding_fun.md).  You will need a computer.
 * Team Huddle via Google Hire
   * Provide your feedback, Summary based on +2 / +1 / 0 / -1 / -2
   * Meeting required if there's vast difference in opinion

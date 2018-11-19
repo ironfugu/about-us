@@ -1,8 +1,35 @@
 ## Tech/Coding Fun
 
-Most of these should be doable in 3-4 hours of time.  If the person is remote, I think we can try to give tasks that could span 1-2 days.
+Most of these should be doable in 2-4 hours of time.  If the person is remote, I think we can try to give tasks that could span 1-2 days.
 
-### Improve our API / Refactoring
+### What are we testing?
+
+* Technical Acumen, can you actually code :)
+* Given a consistent environment, how do you perform vs others?
+* But even more importantly did you do it with the right [Core Behaviors](https://github.com/packethost/about-us#done-right-through-core-behaviors)
+  * Care - Did you care to do a good job?  Did the code base pass the "sniff" test?
+  * Small Steps - is your code built in an iterative way?
+  * Listen, Collab - did you read the challenge carefully and ask questions when things were unclear?
+  * Honest Feedback - did you provide insightful feedback to us?
+  * Seek learning - Did you explore and try different techniques for your code?
+
+### Challenges
+
+* [Build something with our API](tech_1.md)
+
+### Work in Progress
+
+Below are tests we've thought about but haven't worked out all the specific details yet
+
+### Break the monolith
+
+Level : Senior   
+Time : 8-16 hours   
+Type : Backend   
+
+[Details](tech_2.md))
+
+#### Improve our API / Refactoring
 
 Level : Senior    
 Time : 4 - 8 hours   
@@ -14,21 +41,7 @@ Type : Backend
 * Review "redacted" version of our API code base
 * Issue PR for refactor of the "trouble" area
 
-### Break the monolith
-
-Level : Senior   
-Time : 8-16 hours   
-Type : Backend   
-
-* Provide a "redacted" version of our API code base
-* Review the code base and decide what areas would you suggest to refactor and to break up into several "macro-services".
-* Below are suggested areas to review:
-  * Our `app/jobs/` directory
-  * Our `lib/` directory
-  * Our `spec` directory
-  * Our `routes.rb` file
-
-### Improve our SDKs
+#### Improve our SDKs
 
 Level : Any   
 Time : 2-4 hours   
@@ -38,20 +51,7 @@ Type : Backend
 * Review the SDK and then make changes to it and issue a PR
 * The interviewer will do a code review with the person and walk through the changes
 
-### Build a lightweight integration
-
-Level : Any
-Time : 2-4 hours
-Type : Any
-
-* Pick a language
-* Build an interface to our SDK, which allows you to launch a machine and tear it down
-  * If its a frontend language, build a UI
-  * If its a backend language, build a CLI
-* Extra Credit
-  * Pick any additional capabilities in our API that you'd think would be useful to add to the interface
-
-### Be a customer
+#### Be a customer
 
 Level : Any   
 Time : 2-4 hours   
@@ -62,7 +62,7 @@ Type : Backend
   * The front end should display a message
   * The backend API should provide the response that the front-end should display, start with "Hello World"
 
-### Improve our UI
+#### Improve our UI
 
 Level : Any   
 Time : 2-4 hours   
@@ -73,7 +73,7 @@ Type : Frontend
 * Provide access to our Staff Portal code base
 * Debug on what you think the problem is
 
-### Helpful tools
+#### Helpful tools
 
 Level : Any   
 Time : 4-8 hours   
