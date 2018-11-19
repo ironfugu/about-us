@@ -1,8 +1,8 @@
-## Technical Challenge 1
+## Build something with our API
 
 Effort Level : 2-4 hours
 
-Your goal is to build an integration with our API
+Your goal is to build an integration with our API.  Please review the instructions
 
 * Pick a language
 * Create a GitHub repo and utilize any tooling you desire
@@ -20,4 +20,4 @@ Your goal is to build an integration with our API
 
 ### What are we testing?
 
-Read [this]()
+Read [this](https://github.com/packethost/about-us/blob/master/coding_fun.md#what-are-we-testing)
