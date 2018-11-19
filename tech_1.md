@@ -10,7 +10,7 @@ Your goal is to build an integration with our API.  Please review the instructio
   * Understand [auth](https://www.packet.com/developers/api/#authentication)
   * Know the available [OSes](https://www.packet.com/developers/api/#operatingsystems)
   * [Devices](https://www.packet.com/developers/api/#devices) is the main api you'll need
-* Receive an API token for our system
+* Receive an API token for our system (This will be under our ["Interview Project"](https://app.packet.net/projects/ca73364c-6023-4935-9137-2132e73c20b4), and will be shared)
 * Build an interface to our SDK, which allows you to launch a machine and tear it down
   * If its a frontend language, build an UI
   * If its a backend language, build a CLI
