@@ -5,7 +5,7 @@ Effort Level : 2-4 hours
 Your goal is to build an integration with our API.  Please review the instructions
 
 * Pick a language
-* Create a GitHub repo and utilize any tooling you desire
+* Create a public GitHub repo and utilize any tooling you desire
 * Review our [API docs](https://www.packet.com/developers/api/)
   * Understand [auth](https://www.packet.com/developers/api/#authentication)
   * Know the available [OSes](https://www.packet.com/developers/api/#operatingsystems)
@@ -20,6 +20,8 @@ Your goal is to build an integration with our API.  Please review the instructio
 * Provide Feedback on what you liked about this exercise as well as improvements you would make, this could be anything (from our docs to the api itself)
 * Extra Credit
   * Pick any additional capabilities in our API that you'd think would be useful to add to the interface
+
+When complete, please send a link to your GitHub repo and then we'll schedule a follow-up call to review it.  This is all on the honor system :).
 
 ### What are we testing?
 
