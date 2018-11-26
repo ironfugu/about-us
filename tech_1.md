@@ -20,8 +20,11 @@ Your goal is to build an integration with our API.  Please review the instructio
 * Provide Feedback on what you liked about this exercise as well as improvements you would make, this could be anything (from our docs to the api itself)
 * Extra Credit
   * Pick any additional capabilities in our API that you'd think would be useful to add to the interface
+* When complete, please send a link to your GitHub repo with a rough estimate on how long you took
+  * If you're doing this in person, we'll review the code together as you can walk us through
+  * If you're remote, then we'll schedule a follow-up call to review it.
 
-When complete, please send a link to your GitHub repo and then we'll schedule a follow-up call to review it.  This is all on the honor system :).
+This is all on the honor system but didn't need to tell you that ;)
 
 ### What are we testing?
 
