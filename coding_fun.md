@@ -27,7 +27,7 @@ Level : Senior
 Time : 8-16 hours   
 Type : Backend   
 
-[Details](tech_2.md))
+[Details](tech_2.md)
 
 #### Improve our API / Refactoring
 
