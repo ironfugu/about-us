@@ -1,6 +1,6 @@
 ## Tech/Coding Fun
 
-Most of these should be doable in 2-4 hours of time.  If the person is remote, I think we can try to give tasks that could span 1-2 days.
+Most of these should be doable in 2-4 hours of time.  If the person is remote, I think we can try to give tasks that could span 1-2 days.  This will be conducted as part of this [interview](interview.md) process.
 
 ### What are we testing?
 
