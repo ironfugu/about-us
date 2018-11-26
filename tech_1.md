@@ -24,7 +24,7 @@ Your goal is to build an integration with our API.  Please review the instructio
   * If you're doing this in person, we'll walkthrough the code and feedback together
   * If you're remote, then we'll schedule a follow-up call to review it or do it in your next round of interviews
 
-This is all on the honor system but didn't need to tell you that ;)
+This is all on the honor system but we didn't need to tell you that ;)
 
 ### What are we testing?
 
