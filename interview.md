@@ -14,7 +14,7 @@
     * Interview 1 : Core Behaviors Review (1 hour)
     * Interview 2 : System Design / Architecture Review (1 hour)
     * Interview 3 : Language/Framework Specific (1 hour)
-    * Technical Coding Fun : 2 hours for a tech [challenge](coding_fun.md).  You will need a computer.
+    * Technical Coding Fun : 2 hours for a tech [challenge](coding_fun.md).  You will need a computer.  It is possible this is done out of band and the code will be reviewed as part of the language review.
 * Team Huddle via Google Hire
   * Provide your feedback, Summary based on +2 / +1 / 0 / -1 / -2
   * Meeting required if there's vast difference in opinion
