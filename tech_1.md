@@ -14,9 +14,7 @@ Your goal is to build an integration with our API.  Please review the instructio
   * This will be under our ["Interview"](https://app.packet.net/projects/ca73364c-6023-4935-9137-2132e73c20b4) project
   * This will be shared and you won't have direct access to that page
   * [Tokens](https://app.packet.net/projects/ca73364c-6023-4935-9137-2132e73c20b4/settings/api-keys) will be created on a per interviewee basis
-* Build an interface to our SDK, which allows you to launch a machine and tear it down
-  * If its a frontend language, build an UI
-  * If its a backend language, build a CLI
+* Build a program that uses our API, which allows you to launch a machine and tear it down
 * Provide Feedback on what you liked about this exercise as well as improvements you would make, this could be anything (from our docs to the api itself)
 * Extra Credit
   * Pick any additional capabilities in our API that you'd think would be useful to add to the interface
