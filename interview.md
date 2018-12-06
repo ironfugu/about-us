@@ -24,16 +24,24 @@
 
 ### Interview Teams
 
+There are 3 types of interviews
+
+(Dragon) Core Behaviors - focused on how you work, how you approach problems
+(Wizard) System Design - how do you think about design software for scale and reliability
+(Knight) Language - code level knowledge
+
+
 Team          | Language / Framework Focus | System Design Focus
 :-------------|--------------------------- | --------------------
 Emi, Matt     | Ruby on Rails, AngularJS | REST API Related
-Shahar, Phil  | Python, PHP | SRE/DevOps, Hashisuite
+Shahar, Phil  | Python, PHP, Erlang | SRE/DevOps, Hashisuite
 Patrick, Tony | Ruby on Rails, Go, ReactJS | SRE/DevOps, Network
 Lucas, Enzo    | Ruby on Rails, AngularJS | REST API Related, Provisioning
 Manny, Victor | Ruby on Rails, Go | Microservices, Provisioning
 James, Dave  | Ruby on Rails, Go | Provisioning, Infrastructure Design
 Jessica, Nanang | AngularJS | UI/UX Flow
 Linda, Golden | N/A | Agile Development, Core Behaviors
+Enzo,Travis | Ruby on Rails, Node.js, React, AngularJS | REST/API, UI Design
 
 ### Resources
 
