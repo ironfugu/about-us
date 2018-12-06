@@ -24,12 +24,11 @@
 
 ### Interview Teams
 
-There are 3 types of interviews
+As stated above, there are 3 types of interviews and below are the teams that will interview you for them.  Note all members can interview on Core Behaviors.
 
-* Core Behaviors (Radio) - focused on how you work, how you approach problems
-* System Design (Drive) - how do you think about design software for scale and reliability
-* Language Specific (Anchor) - working knowledge of specific coding language and concepts
-
+* Core Behaviors (Processor) - focused on how you work, how you approach problems, working in a team
+* System Design (Drive) - how do you design software and services for scale and reliability
+* Language / Framework (Ram) - working knowledge of specific coding language and concepts
 
 Team          | Language / Framework Focus | System Design Focus
 :-------------|--------------------------- | --------------------
