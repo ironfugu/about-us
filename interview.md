@@ -26,9 +26,9 @@
 
 There are 3 types of interviews
 
-* Core Behaviors (Dragon) - focused on how you work, how you approach problems
-* System Design (Wizard) - how do you think about design software for scale and reliability
-* Language Specific (Knight) - working knowledge of specific coding language and concepts
+* Core Behaviors (Radio) - focused on how you work, how you approach problems
+* System Design (Drive) - how do you think about design software for scale and reliability
+* Language Specific (Anchor) - working knowledge of specific coding language and concepts
 
 
 Team          | Language / Framework Focus | System Design Focus
