@@ -12,6 +12,10 @@ Welcome to our development culture document.  Here describes how we view the wor
 * We are effective at getting things done the right way.
 * We are community minded and do the right thing.
 
+### Our Team Culture
+
+Teammates driven by [Autonomy, Mastery and Purpose](https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_About_What_Motivates_Us) working together with [psychological saftey](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) is the basis for everything we do.
+
 ### Done right through Core Behaviors
 
  * __Care about...__ - This is the most important behavior as all other behaviors depend on this
@@ -90,3 +94,4 @@ Squad Name    | Main Focus | SLO | Product Owner
 * Our [Interview](interview.md) process    
 * Our [Onboarding](onboard.md) process    
 * SWE [Overview & Roadmap](https://trello.com/b/A814D0t8/software-eng-roadmap) (private)    
+* [Pyschological Safety](https://hbr.org/2017/08/high-performing-teams-need-psychological-safety-heres-how-to-create-it)

@@ -1,6 +1,7 @@
 ## Example Questions
 
-Below are lists of example questions you may be asked.  Each interviewer will have their own style, but will cover these general concepts.
+Below are lists of example questions you may be asked.
+
 
 ### General / Zoom Screen
 
@@ -25,11 +26,49 @@ If candidate has Managerial or Lead Experience
 ### Core Behavior Type Questions
 
 
+ * __Care about...__
+  * Review an item in the "Seek a Mentor" section, and drill down.  Ask why you are interested in particular technologly
+  * What is your hobby, can you explain to me what you enjoy about it?
+  * Name the number one thing you're passionate about at work
+  * What don't you like to do at work?
+  * Have you done test driven development?  What do you think is thea hardest part of test driven?
+  * What kind of knowledge base do you use?  What's your preferred method of documentation?
+  * If "code is the documentation", why have READMEs or comments?
+
+* __Take small purposeful steps__
+  * What's the current development process you are in?
+  * How do you think you can improve the current process?
+  * What does the current product you work on do?  What is your role?  How do customers use your services?
+  * How would you take a complicated set of requirements and break it down into something meaniful?  Let's say you were going to migrate a monolith Rails App to Go microservices, how would you approach it?
+  * How do you go about gathering information when an issue or feature has incomplete information?
+  * How much detail do you think an issue/feature ideally should have?
+
+ * __Listen then collaborate__
+  * What do you do if a co-worker has a significantly different opinion about a technology choice?  For example, React vs Angular.  How would you approach that conversation?
+  * What type of teams have you worked with?  What do you think is the ideal team size?
+  * Give an example of when you disagreed with the team and how that conversation went.
+     
+ * __Give honest and continuous feedback__
+  * If you could change anything about your company, what would it be?
+  * What type of feedback loop do you have in your team?  360 reviews, yearly reviews, employee engagement tools?
+  * Have you given feedback to a teammate directly?  How have you approached that?
+
+
+ * __Seek learning and be uncomfortable__
+  * How do you decide on picking a new technology/tool vs using an existing one?
+  * What's your process to decide if a new language or tool is useful?
+  * How do you keep up to date on the latest technologies or techniques?
 
 ### System Design / Architecture Questions
 
 
 
-### Language Specific questions
+### Language Specific Questions
 
+
+### For Interviewers, remember these simple guidelines:
+
+* Make it a conversation, this is not a test
+* Figure out how to weave questions into the conversation, if there's an interesting topic, let it flow and find nuggets
+* If you're not asking questions, observe and help guide the interviewee if they get stuck or are confused about something
 
