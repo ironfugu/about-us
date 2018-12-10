@@ -42,6 +42,7 @@ James, Dave  | Ruby on Rails, Go | Provisioning, Infrastructure Design
 Jessica, Nanang | AngularJS | UI/UX Flow
 Linda, Golden | N/A | Agile Development, Core Behaviors
 Enzo,Travis | Ruby on Rails, Node.js, React, AngularJS | REST/API, UI Design
+Patrick, Travis | Go, ReactJS, Node.js | REST API Related, Network
 
 ### Resources
 
