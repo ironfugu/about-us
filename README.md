@@ -78,15 +78,24 @@ DevOps Culture| Everyone should know how stuff runs and keep an eye that service
 
 ### Our Team
 
-We've adapted the "Spotify" [model](https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf) for scaling our teams.  We only have one tribe for now, but a few squads, chapters and guilds.
+We've adapted the "Spotify" [model](https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf) for scaling our teams.  We have a few squads and are still experimenting with the right mix of people and skillsets.
 
-Squad Name    | Main Focus | SLO | Product Owner 
-:-------------|----------- | --- | ------------- 
-[X-force](https://packet.atlassian.net/secure/RapidBoard.jspa?rapidView=60&useStoredSettings=true) |experience for our customers and staff | [API Apdex](https://synthetics.newrelic.com/accounts/45249/monitors/ee8b6b9b-7373-411d-a801-67708572e293/sla?view=daily-sla-report) | Linda
-[Dev Exp/Cloud Interconnect]() | Developer Tools Integration, Interconnecting cloud provider | TBD | Patrick
-[Suicide Squad](https://packet.atlassian.net/secure/RapidBoard.jspa?rapidView=61&useStoredSettings=true) (SuS) | provision services | [VIP Successful Provision %](https://northstar.packet.net/d/71i_Y0Jmz/vip-provision-metrics?orgId=1) | Lucas
-[Deadlift](https://packet.atlassian.net/secure/RapidBoard.jspa?rapidView=65) | Production Engineering | [Platform Availability]() | Shahar
-[CMR](https://packet.atlassian.net/secure/RapidBoard.jspa?rapidView=66&projectKey=SWE) | business systems integrations, billing and usage | TBD | TBD
+Squad Name    | Main Focus | SLO | Squad Lead
+:-------------|----------- | --- | -------------
+[X-force](https://packet.atlassian.net/secure/RapidBoard.jspa?rapidView=60&useStoredSettings=true) | Customer Management and Overall Experience | [API Apdex](https://synthetics.newrelic.com/accounts/45249/monitors/ee8b6b9b-7373-411d-a801-67708572e293/sla?view=daily-sla-report) | Linda
+[Suicide Squad](https://packet.atlassian.net/secure/RapidBoard.jspa?rapidView=61&useStoredSettings=true) (SuS) | Compute Products, Provisioning | [Successful Provision %](https://northstar.packet.net/d/71i_Y0Jmz/vip-provision-metrics?orgId=1) | Lucas
+[Network Warriors]() | Network Products & Automation | TBD | Patrick
+[Deadlift](https://packet.atlassian.net/secure/RapidBoard.jspa?rapidView=65) | Production Engineering | [API & Network Availability]() | Phil
+
+__Proposed Future Squads__
+
+These are teams that require more focused attention but don't have the critical mass yet for a well functioning team.
+
+Squad Name    | Main Focus | SLO | Squad Lead
+:-------------|----------- | --- | -------------
+[CMR](https://packet.atlassian.net/secure/RapidBoard.jspa?rapidView=66&projectKey=SWE) | Usage & Billing | TBD | TBD
+[ICP]() | Asset Management | TBD | TBD
+
 
 
 ### Resources
@@ -94,4 +103,4 @@ Squad Name    | Main Focus | SLO | Product Owner
 * Our [Interview](interview.md) process    
 * Our [Onboarding](onboard.md) process    
 * SWE [Overview & Roadmap](https://trello.com/b/A814D0t8/software-eng-roadmap) (private)    
-* [Pyschological Safety](https://hbr.org/2017/08/high-performing-teams-need-psychological-safety-heres-how-to-create-it)
+* [How to create Pyschological Safety](https://hbr.org/2017/08/high-performing-teams-need-psychological-safety-heres-how-to-create-it)
