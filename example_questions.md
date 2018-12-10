@@ -47,7 +47,7 @@ If candidate has Managerial or Lead Experience
   * What do you do if a co-worker has a significantly different opinion about a technology choice?  For example, React vs Angular.  How would you approach that conversation?
   * What type of teams have you worked with?  What do you think is the ideal team size?
   * Give an example of when you disagreed with the team and how that conversation went.
-     
+
 #### Give honest and continuous feedback
   * If you could change anything about your company, what would it be?
   * What type of feedback loop do you have in your team?  360 reviews, yearly reviews, employee engagement tools?
@@ -64,6 +64,18 @@ If candidate has Managerial or Lead Experience
 
 ### Language Specific Questions
 
+#### Questions about submitted code
+
+  * How would you expand this code to handle new requirements?
+  * What would you change about this code if it were going to production?
+
+#### Testing
+
+  * How do you ensure correct functionality of the code? What kind of tests would you use, what do they help to catch?
+
+#### General
+
+  * How would you package/ship this code for Production?
 
 ### For Interviewers, remember these simple guidelines:
 
