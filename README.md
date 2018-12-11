@@ -97,10 +97,10 @@ Squad Name    | Main Focus | SLO | Squad Lead
 [ICP]() | Asset Management | TBD | TBD
 
 
-
 ### Resources
 
 * Our [Interview](interview.md) process    
 * Our [Onboarding](onboard.md) process    
+* [Leading](leading.md) @ Packet    
 * SWE [Overview & Roadmap](https://trello.com/b/A814D0t8/software-eng-roadmap) (private)    
 * [How to create Pyschological Safety](https://hbr.org/2017/08/high-performing-teams-need-psychological-safety-heres-how-to-create-it)
