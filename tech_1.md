@@ -9,6 +9,7 @@ Your goal is to build an integration with our API.  Please review the instructio
 * Review our [API docs](https://www.packet.com/developers/api/)
   * Understand [auth](https://www.packet.com/developers/api/#authentication)
   * Know the available [OSes](https://www.packet.com/developers/api/#operatingsystems)
+  * Understand [capacity](https://www.packet.com/developers/api/#capacity)
   * [Devices](https://www.packet.com/developers/api/#devices) is the main api you'll need
 * Receive an API token for our system
   * This will be under our ["Interview"](https://app.packet.net/projects/ca73364c-6023-4935-9137-2132e73c20b4) project
