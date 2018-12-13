@@ -33,7 +33,7 @@ As stated above, there are 3 types of interviews and below are the teams that wi
 Team          | Language / Framework Focus | System Design Focus
 :-------------|--------------------------- | --------------------
 Emi, Matt     | Ruby on Rails, AngularJS | REST API Related
-Shahar, Phil  | Python, PHP, Erlang | SRE/DevOps, Hashisuite
+Shahar, Philip| Python, PHP, Erlang | SRE/Infrastructure automation, Service orchestration
 Patrick, Tony | Ruby on Rails, Go, ReactJS | SRE/DevOps, Network
 Lucas, Enzo    | Ruby on Rails, AngularJS | REST API Related, Provisioning
 Manny, Victor | Ruby on Rails, Go | Microservices, Provisioning
