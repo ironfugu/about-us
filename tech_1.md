@@ -11,10 +11,9 @@ Your goal is to build an integration with our API.  Please review the instructio
   * Know the available [OSes](https://www.packet.com/developers/api/#operatingsystems)
   * Understand [capacity](https://www.packet.com/developers/api/#capacity)
   * [Devices](https://www.packet.com/developers/api/#devices) is the main api you'll need
-* Receive an API token for our system
-  * This will be under our ["Interview"](https://app.packet.net/projects/ca73364c-6023-4935-9137-2132e73c20b4) project (ca73364c-6023-4935-9137-2132e73c20b4)
-  * This will be shared and you won't have direct access to that page
-  * [Tokens](https://app.packet.net/projects/ca73364c-6023-4935-9137-2132e73c20b4/settings/api-keys) will be created on a per interviewee basis
+* Receive an API token for this challenge
+  * This will be under our "Interview" project id : ca73364c-6023-4935-9137-2132e73c20b4
+  * [Tokens](https://app.packet.net/projects/ca73364c-6023-4935-9137-2132e73c20b4/settings/api-keys) will be created on a per interviewee basis (you won't have access to that link)
 * Build a program that uses our API, which allows you to launch a machine and tear it down
 * Provide Feedback on what you liked about this exercise as well as improvements you would make, this could be anything (from our docs to the api itself)
 * Extra Credit
