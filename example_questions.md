@@ -59,8 +59,8 @@ If candidate has Managerial or Lead Experience
   * How do you keep up to date on the latest technologies or techniques?
 
 ### System Design / Architecture Questions
-
-
+  * What steps do you take when evaluating and fixing scaling problems of an application?
+  * How do you build reliability into your system?
 
 ### Language Specific Questions
 
