@@ -23,3 +23,12 @@ Here are some examples of responsiblities
 * Lives and breathes our Core Values and Behaviors
 * Embraces autonomy, master and purpose for oneself and the team
 * Helps promote psychological safety among team members
+
+## Levels
+
+At the high level, there are 4 main levels for Engineering
+
+Software Engineer
+Senior Software Engineer
+Staff Engineer
+Distinguished Engineer
