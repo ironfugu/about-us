@@ -25,7 +25,7 @@ Here are some examples of responsiblities
 * Embraces autonomy, master and purpose for oneself and the team
 * Helps promote psychological safety among team members
 
-## Tiers
+### Tiers
 
 Here's a visual representation of the tiers.  There are 3 levels within a range
 
@@ -36,8 +36,8 @@ Senior Software Engineer | Eng Manager
 Staff Engineer | Director of Eng
 Distinguished Engineer | VP of Eng
 
-Level 1: Performing well at level
-Level 2: Exhibiting qualities of next level
-Level 3: Consistently displaying qualities of next level
+Level 1: Performing well at level    
+Level 2: Exhibiting qualities of next level   
+Level 3: Consistently displaying qualities of next level   
 
 A more detailed model is described in our [performance](perf.md) reviews
