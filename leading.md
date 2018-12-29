@@ -1,4 +1,5 @@
-## Leading at Packet
+## (WIP) Leading at Packet
+_this is a work in progress and is not adopted as our system_
 
 There are two distinct and __equivalent__ leadership tracks within Software Engineering, one as a technical leader or individual contributor (IC) and one as a people leader, who helps recruit, hire and nuture people's careers.  These two tracks are equal in both pay and responsibility and is of equal importance.
 
@@ -38,3 +39,5 @@ Distinguished Engineer | VP of Eng
 Level 1: Performing well at level
 Level 2: Exhibiting qualities of next level
 Level 3: Consistently displaying qualities of next level
+
+A more detailed model is described in our [performance](perf.md) reviews
