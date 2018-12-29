@@ -1,4 +1,5 @@
-### Evaluating Performance
+### (WIP) Evaluating Performance
+_Note, this still requires feedback and has not been fully adopted_
 
 As part of our core behavior, we should be providing feedback to each other constantly but there also needs to be a more formal way to evaluate our progress.  This is something your team lead or manager should be doing with you on at least a monthly basis.
 
