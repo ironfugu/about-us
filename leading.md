@@ -1,6 +1,6 @@
 ## Leading at Packet
 
-There are two distinct and __equivalent__ leadership tracks within Software Engineering, one as a technical leader or individual contributor (IC) and one as a people leader, who helps find, hire and nuture people's careers.  These two tracks are equal in both pay and responsibility and is of equal importance.
+There are two distinct and __equivalent__ leadership tracks within Software Engineering, one as a technical leader or individual contributor (IC) and one as a people leader, who helps recruit, hire and nuture people's careers.  These two tracks are equal in both pay and responsibility and is of equal importance.
 
 Here are some examples of responsiblities
 
@@ -24,11 +24,17 @@ Here are some examples of responsiblities
 * Embraces autonomy, master and purpose for oneself and the team
 * Helps promote psychological safety among team members
 
-## Levels
+## Tiers
 
-At the high level, there are 4 main levels for Engineering
+Here's a visual representation of the tiers.  There are 3 levels within a range
 
-Software Engineer
-Senior Software Engineer
-Staff Engineer
-Distinguished Engineer
+Technical | People
+--------- | ------
+Software Engineer | Project Manager
+Senior Software Engineer | Eng Manager
+Staff Engineer | Director of Eng
+Distinguished Engineer | VP of Eng
+
+Level 1: Performing well at level
+Level 2: Exhibiting qualities of next level
+Level 3: Consistently displaying qualities of next level
