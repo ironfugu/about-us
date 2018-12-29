@@ -29,12 +29,23 @@ Here are some examples of responsiblities
 
 Here's a visual representation of the tiers.  There are 3 levels within a range
 
-Technical | People
---------- | ------
-Software Engineer | Project Manager
-Senior Software Engineer | Eng Manager
-Staff Engineer | Director of Eng
-Distinguished Engineer | VP of Eng
+__Technical__
+
+Tier | Name  | Summary
+---- |--------- | ------
+1 | Software Engineer | Actively contributing production level code
+2 | Senior Software Engineer | Own direction/architecture for 1-3 services, <br> mentor to engineers
+3 | Staff Engineer | Complex architectures across multiple services<br> and prouct areas, mentoring senior engs, help other<br> teams succeed
+4 | Distinguished Engineer | Deep expertise in a couple of areas, <br> has technical vision of entire product, growing <br>several staff/senior engs, help squads succeed, <br>industry leading expert
+
+__People__
+
+Tier | Name | Summary
+---| --------- | ----
+1 | Project Manager | Helping projects reach execution success
+2 | Eng Manager | Leading a squad or guild
+3 | Director of Engineering | Leading several squads, mentors to other managers,<br> grew someone to Manager
+4 | VP of Engineering | Leading an entire tribe, mentors to other Directors<br> and Managers, grew several people to managers,<br> grew someone to director level,<br> advisor to leaders outside of our company
 
 Level 1: Performing well at level    
 Level 2: Exhibiting qualities of next level   
