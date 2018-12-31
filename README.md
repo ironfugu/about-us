@@ -26,27 +26,33 @@ Teammates driven by [Autonomy, Mastery and Purpose](https://en.wikipedia.org/wik
       * Care about learning and growing your skills.
 
  * __Take small purposeful steps__ - We are doing some great things, but we can only get there one commit at a time.
-      * Think "why" am I working on this
-      * Think "how" can I do this in incremental steps
-      * Think "who" else do I need help or info from
+      * Understand "what" the problem statement is and how it impacts the user or customer
+      * Think "[how](https://blog.crisp.se/wp-content/uploads/2016/01/mvp.png)" can I do this in incremental steps, by providing useful functionality along the way.
+      * Expect __failure__ along the way and feel the freedom to experiment to find the right solution
       * Practice makes perfect
 
  * __Listen then collaborate__ - Listen to understand, rather than to respond
       * Listen with empathy, understand the other's point of view
       * Give your full attention
       * Give space for others to respond
+      * Understand how your work will/can impact others
      
- * __Give honest and continuous feedback__ - 
-      * Be Specific and timely
-      * Give compliments openly, critiques privately
-      * Use the ["when you, I feel..."](https://www.erikbohlin.net/handouts/Constructive_Feedback.pdf) form of feedback
+ * __Provide Continuous Feedback & Progress__ - effective communications is really hard, but essential to our work
+      * Providing useful and timely comments and suggestions in code and processes
+      * Keep others informed of your progress through our issue tracking tool
+      * Be open and honest, don't say something you don't actually believe or feel
+      * When providing feedback to others
+        * Be Specific and timely
+        * Give compliments openly, critiques privately
+        * Use the ["when you, I feel..."](https://www.erikbohlin.net/handouts/Constructive_Feedback.pdf) form of feedback
 
  * __Seek learning and be uncomfortable__ - Don't get complacent, find new ways to do things
       * Don't pick a path just because its easy or comfortable
       * Pick the right tool for the job
-      * There's always multiple ways to do something, explore them      
+      * There's always multiple ways to do something, explore them    
+      * Seek guidance from others, don't have the "invented here" mentality
 
-If you retain anything from this article, it is the core behaviors from above.  We live by this, we hire by this, we fire by this.
+If you retain anything from this article, it is the core behaviors from above.  We live by this, we [hire](interview.md) based on this and evaluate [performance](perf.md) based on this.  If you excel at those, you will go far in Packet SWE.
 
 ### How and why we do it
 
