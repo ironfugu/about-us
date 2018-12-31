@@ -35,7 +35,7 @@ Tier | Name  | Summary
 ---- |--------- | ------
 1 | Software Engineer | Actively contributing production level code
 2 | Senior Software Engineer | Own direction/architecture for 1-3 services, <br> mentor to engineers
-3 | Staff Engineer | Complex architectures across multiple services<br> and prouct areas, mentoring senior engs, help other<br> teams succeed
+3 | Staff Engineer | Complex architectures across multiple services<br> and product areas, mentoring senior engs, help other<br> teams succeed
 4 | Distinguished Engineer | Deep expertise in a couple of areas, <br> has technical vision of entire product, growing <br>several staff/senior engs, help squads succeed, <br>industry leading expert
 
 __People__
