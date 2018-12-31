@@ -95,12 +95,12 @@ Squad Name    | Main Focus | SLO | Squad Lead
 :-------------|----------- | --- | -------------
 [CMR](https://packet.atlassian.net/secure/RapidBoard.jspa?rapidView=66&projectKey=SWE) | Usage & Billing | TBD | TBD
 [ICP]() | Asset Management | TBD | TBD
-
+[Dev Exp]() | Building World-class APIs, scalable API/data model | TBD | TBD
 
 ### Resources
 
 * Our [Interview](interview.md) process    
 * Our [Onboarding](onboard.md) process    
-* [Leading](leading.md) @ Packet    
+* [Leading](leading.md) @ Packet and how we evaluate [performance](perf.md)    
 * SWE [Overview & Roadmap](https://trello.com/b/A814D0t8/software-eng-roadmap) (private)    
 * [How to create Pyschological Safety](https://hbr.org/2017/08/high-performing-teams-need-psychological-safety-heres-how-to-create-it)
