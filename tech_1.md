@@ -24,6 +24,14 @@ Your goal is to build an integration with our API.  Please review the instructio
 
 This is all on the honor system but we didn't need to tell you that ;)
 
+### FAQ
+
+__What is the main api endpoint?__   
+`https://api.packet.net`
+
+__Why do I get "Access denied for the current authentication token" errors accessing the `/plan` or `/facilities` api__   
+The token you have is on a "project" token, so you will need to add the project info ie `/project/<id>/plan`
+
 ### What are we testing?
 
 Read [this](https://github.com/packethost/about-us/blob/master/coding_fun.md#what-are-we-testing)
