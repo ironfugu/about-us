@@ -1,0 +1,53 @@
+about:
+  name: Packet Bot
+  location: The Internets
+  timezone: UTC-00
+  hobbies:
+    - "Ultimate Frisbee"
+  favorite_resources:
+    - "ai superpowers"
+# be a mentor
+bam:
+  skills:
+    - Breaking stuff
+    - Being Awesome
+    - Making the internet a better place
+  languages/paradigms:
+    # Specify ['what', level], level 1-10 (1 being justed learned, 10 you can give a talk about it)
+    - [RocketLang, 10]
+    - [Go, 9]
+    - [Ruby, 8]
+  frameworks/libraries/concepts:
+    # list in order of most recent
+    - None
+# seek a mentor
+sam:
+  skills:
+    - Letting others have their sunshine
+    - Edge Computing
+  languages/paradigms:
+    - Rust
+  frameworks/libraries/concepts:
+    - React
+# Personal Development plan, created when you join or during your career discussion
+pdp:
+  # Goals and objects
+  goals:
+    career: "I can turn off an entire datacenter and survive"
+    sam_to_bam: "Edge computing"
+    bam: "Help interns learn about Golang"
+  # list at least 2 things Packet can be doing to help
+  support:
+    - "Run me on bigger hardware"
+    - "Attend machine learning courses"
+  # Come up with plan, what you can do within a week, a month and a quarter to achieve your goals
+  # We will track your progress in Lattice
+  plan:
+    week:
+      - "Take a udacity course about Advanced AI"
+    month:
+      - "Run algorithms on GCP and Azure"
+    quarter:
+      - "Present at IEEE"
+    # list a person inside or outside the company who can help you achieve your plan
+    mentor: "Dave"
