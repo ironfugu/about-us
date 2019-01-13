@@ -18,11 +18,13 @@ __Day 1__
   * Overview of our SDLC
   * Overview of our Architecture
   * Overview of Squads and services
-* Assigned your first SWE issue with introduction of the service you'll be working on
-* Assigned a "buddy" who will help show you the ropes and answer any questions.
+* Created PR with your bam/sam moved to the "employees" section, and assigned a buddy, which should include
+  * Assigned your first SWE issue with introduction of the service you'll be working on
+  * Assigned a mentor or "buddy"
 
 __Week 1__
 
+* Finalized your personal development plan (pdp) with your manager, and updated your bam/sam and issued a PR.
 * Completed your first issue by getting your PR(s) reviewed and merged and pushed to production! (bravo if you got multiple in your first week!)
 * Working with your team to start taking on more issues or a bigger item like an EPIC
 * Introduction to additional services that may be required for you to do your job

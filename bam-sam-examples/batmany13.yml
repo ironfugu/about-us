@@ -1,35 +1,72 @@
-name: Bruce Wang
-location: 'San Francisco, CA'
-timezone: UTC-07
+about:
+  name: Bruce Wang
+  location: "San Francisco, CA"
+  timezone: UTC-07
+  hobbies:
+    # can't be related to your job
+    - "Food, eating and cooking"
+  favorite_resources:
+    - "Drive by Daniel Pink"
+    - "Lean Startup"
+    - "GitPrime Newsletter"
 # be a mentor
 bam:
-    skills:
-        - 'Process / Culture / Team building'
-        - 'Business and Value minded'
-        - 'Breaking down complex tasks into small iterative steps'
-        - 'Diverse programming language experience'
-        - 'Cross Vector Thinking'
-    languages:
-        # list in order of most recent or familiarity
-        - Golang
-        - Elixir
-        - Ruby
-    frameworks:
-        # list in order of most recent
-        - Phoenix
-        - Rails
+  skills:
+    - "Process / Culture / Team building"
+    - "Business and Value minded"
+    - "Breaking down complex tasks into small iterative steps"
+    - "Diverse programming language experience"
+    - "Cross Vector Thinking"
+  languages/paradigms:
+    # Specify ['what', level], level 1-10 (1 being justed learned, 10 you can give a talk about it)
+    - [Golang, 4]
+    - [Elixir, 3]
+    - [Ruby, 5]
+  frameworks/libraries/concepts:
+    # list in order of most recent
+    - [Phoenix, 3]
+    - [Rails, 5]
 # seek a mentor
 sam:
-    skills:
-        - 'No deep expertise in any one language or framework'
-        - 'Talk too much, sometimes don’t give the space for others to speak'
-        - 'Lack of hyper scale experience'
-        - 'Lack of hardware / hosting experience'
-        - 'can move too fast without all the info'
-    languages:
-        - Javascript
-        - Rust
-    frameworks:
-        - React
-        - Angular
-        - NodeJS
+  skills:
+    - "No deep expertise in any one language or framework"
+    - "Talk too much, sometimes don’t give the space for others to speak"
+    - "Lack of hyper scale experience"
+    - "Lack of hardware / hosting experience"
+    - "can move too fast without all the info"
+  languages/paradigms:
+    - Javascript
+    - Rust
+  frameworks/libraries/concepts:
+    - React
+    - Angular
+    - NodeJS
+# Personal Development plan, created when you join or during your career discussion
+pdp:
+  # Goals and objects
+  goals:
+    career: "Build a world-class software engineering organization focused on customers and continuous value delivery"
+    sam_to_bam: "Gain more hardware / hosting experience"
+    bam: "SuS team all feel comfortable breaking down large tasks into weekly deliverables"
+  # list at least 2 things Packet can be doing to help
+  support:
+    - "Budget for training software like Pluralsight and attending relevant meetups"
+    - "Help identify oppurtunities where I can present or give talks"
+    - "Be involved earlier in deals, introduced to customers"
+  # Come up with plan, what you can do within a week, a month and a quarter to achieve your goals
+  # We will track your progress in Lattice
+  plan:
+    week:
+      - "Read Measure What Matters"
+      - "Understand how JIRA analytics work, how do we track lead times and developer flow"
+    month:
+      - "Read 3 management books (Team of Teams, The Manager's Path, Radical Candor)"
+      - "Do a day's work at SJC1"
+      - "Be in support for a week"
+      - "Determine accurate lead times for SuS"
+    quarter:
+      - "Measuring every team based on their OKRs"
+      - "Educate Ops, Sales, Support, Product and Executive team on dev process"
+      - "Ensure 80% of items in our fixed-delivery or roadmap or delivered"
+    # list a person inside or outside the company who can help you achieve your plan
+    mentor: ""
