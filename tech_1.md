@@ -29,8 +29,8 @@ This is all on the honor system but we didn't need to tell you that ;)
 __What is the main api endpoint?__   
 `https://api.packet.net`
 
-__Why do I get "Access denied for the current authentication token" errors accessing the `/plan` or `/facilities` api__   
-The token you have is on a "project" token, so you will need to add the project info ie `/project/<id>/plan`
+__Why do I get "Access denied for the current authentication token" errors accessing the `/plans` or `/facilities` api__   
+The token you have is on a "project" token, so you will need to add the project info ie `/project/<id>/plans`
 
 ### What are we testing?
 
