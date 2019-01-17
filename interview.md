@@ -9,7 +9,7 @@
 
 #### Technical Process
 
-* Technical Coding Fun : A [challenge](tech_1.md) lasting a few hours.  This is done ahead of time to alleviate undue time pressure, vet you for these [skills](https://github.com/packethost/about-us/blob/master/coding_fun.md#what-are-we-testing) and make the language interview a bit more interactive.  If you don't have a personal computer to use, a separate challenge can be arranged.
+* Technical Coding Fun : A [challenge](tech_1.md) lasting a few hours.  This is done ahead of time to alleviate undue time pressure, vet you for these [skills](https://github.com/packethost/about-us/blob/master/coding_fun.md#what-are-we-testing) and make the language interview a bit more interactive.  If you don't have a personal computer to use, a separate challenge can be arranged. If you are interviewing as an intern the technical challenge can be done over a longer period given classes and experience.
 
 * Remote - This process may span a week, but ideally be done within a couple of days
     * Interview 1 : Core Behaviors Review (1 hour)
@@ -20,8 +20,9 @@
     * Interview 2 : System Design / Architecture Review (1 hour, full-time only)
     * Interview 3 : Language/Framework Specific (1 hour)
     * Lunch : Casual lunch with some team members (1 hour)
-
-Note:  If you are interviewing as an intern, you won't be asked the System Design portion and the technical challenge can be done over a longer period given classes and experience.
+* Intern - This process may span a week, but ideally be done within a couple of days
+    * Interview 1 : Core Behaviors Review (30 minutes)
+    * Interview 2 : Language/Framework Specific (30 minutes)
 
 #### People Leader Process
 
