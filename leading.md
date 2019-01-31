@@ -16,7 +16,7 @@ Here are some examples of responsiblities
 
 * Leads the hiring and career growth process
 * Understands the unique skillsets of each team member and how they fit on the team
-* Keep up to date on the latest tecniques in hiring, mentoring and growing people
+* Keep up to date on the latest techniques in hiring, mentoring and growing people
 * Promotes a diversity of thought and experience
 
 ### Common Traits
