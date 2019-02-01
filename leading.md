@@ -59,8 +59,8 @@ Name  | Summary
 --------- | ------
 Systems Engineer | Managing our infrastructure and OSes
 Senior Systems Engineer | Own automation strategy for our OSes, Firmware, BMCs etc
-Systems Architect | Design out complex architectures for a globally distrbuted infrastructure including<br> the automation/tooling needed to maintain it
-Distinguished Engineer | Deep expertise in hardware or OSes, technical vision of global infrastructure,<br>mentoring senior systems engineers and architects, help multiple squads succeed, <br>industry leading expert
+Systems Architect | Design out complex architectures for a globally distrbuted infrastructure including<br> the automation & tooling needed to maintain it
+Distinguished Engineer | Deep expertise in hardware/OSes, technical vision of global infrastructure,<br>mentoring senior systems engineers and architects, help multiple squads succeed, <br>industry leading expert
 
 
 ### People
