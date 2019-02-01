@@ -29,8 +29,6 @@ Here are some examples of responsiblities
 
 Here's a visual representation of the tiers.  See details below
 
-Summary
-
 Tier | Software  | Systems | People
 ---- |--------- | ------ | ----
 1 | Software Engineer | Systems Engineer | Project Manager
@@ -50,8 +48,8 @@ Name  | Summary
 --------- | ------
 Software Engineer | Actively contributing production level code
 Senior Software Engineer | Own direction/architecture for 1-3 services, technical mentor to engineers
-Staff Engineer | Complex architectures across multiple services and product areas,<br> mentoring senior engs, help other teams with their architecture
-Distinguished Engineer | Deep expertise in a couple of areas, has technical vision of entire<br> product, growing several staff/senior engs, help squads succeed, industry leading expert
+Staff Engineer | Complex architectures across multiple services and product areas,<br> mentoring senior engs, help other teams with their challenges
+Distinguished Engineer | Deep expertise in a couple of areas, has technical vision of entire<br> product, mentoring several staff/senior engs, help squads succeed, industry leading expert
 
 ### Systems
 
@@ -61,8 +59,8 @@ Name  | Summary
 --------- | ------
 Systems Engineer | Managing our infrastructure and OSes
 Senior Systems Engineer | Own automation strategy for our OSes, Firmware, BMCs etc
-Systems Architect | Design out complex architectures for a globally distrbuted infrastructure including<br> tooling and monitoring required to manage it
-Distinguished Engineer | Deep expertise in hardawre or OSes, technical vision of global infrastructure,<br>mentoring senior systems engineers and architects, help multiple squads succeed, <br>industry leading expert
+Systems Architect | Design out complex architectures for a globally distrbuted infrastructure including<br> and the automation needed to maintain it
+Distinguished Engineer | Deep expertise in hardware or OSes, technical vision of global infrastructure,<br>mentoring senior systems engineers and architects, help multiple squads succeed, <br>industry leading expert
 
 
 ### People
