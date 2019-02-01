@@ -1,7 +1,7 @@
 # (WIP) Leading at Packet
 _this is a work in progress and something we're working to adopt_
 
-There are two distinct and __equivalent__ leadership tracks within Software Engineering, one as a  individual contributor (IC) who actively works on the technical product and systems and one as a people leader, who helps recruit, hire and nuture people's careers.  These two tracks are equal in both pay and responsibility and is of equal importance.
+There are two distinct and __equivalent__ leadership tracks within Software Engineering, one as an  individual contributor (IC) who actively works on the technical product and systems and one as a people leader, who helps recruit, hire and nuture people's careers.  These two tracks are equal in both pay and responsibility and is of equal importance.
 
 Here are some examples of responsiblities
 
@@ -16,7 +16,7 @@ Here are some examples of responsiblities
 
 * Leads the hiring and career growth process
 * Understands the unique skillsets of each team member and how they fit on the team
-* Keep up to date on the latest techniques in hiring, mentoring and growing people
+* Keeps up to date on the latest techniques in hiring, mentoring and growing people
 * Promotes a diversity of thought and experience
 
 ## Common Traits
@@ -44,6 +44,8 @@ Level 3: Consistently displaying qualities of next level
 
 ### Software
 
+These engineers focus on product development and delivering iterative customer value
+
 Name  | Summary
 --------- | ------
 Software Engineer | Actively contributing production level code
@@ -53,7 +55,7 @@ Distinguished Engineer | Deep expertise in a couple of areas, has technical visi
 
 ### Systems
 
-This is related to dealing with our infrastruture
+These engineers focus on our infrastructure and all the bits that makes our hardware resilient and our OS support state of the art
 
 Name  | Summary
 --------- | ------
@@ -65,11 +67,15 @@ Distinguished Engineer | Deep expertise in hardawre or OSes, technical vision of
 
 ### People
 
+These people focus on our talent, nuturing, growing, and making them self sufficient as well as providing technical and process guidance.
+
 Name | Summary
 --------- | ----
 Project Manager | Helping a small group of engineers reach execution success
 Eng Manager | Managing a team of people, who could be part of different squads
 Director of Engineering | Leading several squads, mentors to other managers,<br> grew someone to Manager
 VP of Engineering | Leading an entire tribe, mentors to other Directors and Managers,<br> grew several people to managers, grew someone to director level,<br> advisor to leaders outside of our company
+
+Note: While it's not a strict requirement that our people leaders have engineering backgrounds, many of them do.
 
 A more detailed model is described in our [performance](perf.md) reviews
