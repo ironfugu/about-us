@@ -49,7 +49,7 @@ Name  | Summary
 Software Engineer | Actively contributing production level code
 Senior Software Engineer | Own direction/architecture for 1-3 services, technical mentor to engineers
 Staff Engineer | Complex architectures across multiple services and product areas,<br> mentoring senior engs, help other teams with their challenges
-Distinguished Engineer | Deep expertise in a couple of areas, has technical vision of entire<br> product, mentoring several staff/senior engs, help squads succeed, industry leading expert
+Distinguished Engineer | Deep expertise in a couple of areas, has technical vision of entire<br> product, mentoring several staff/senior engs, help squads succeed,<br>industry leading expert
 
 ### Systems
 
