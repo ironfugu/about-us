@@ -25,15 +25,17 @@ sam:
   skills:
     - Letting others have their sunshine
     - Edge Computing
+    - Datacenter Monitoring
   languages/paradigms:
     - Rust
   frameworks/libraries/concepts:
     - React
 # The onboarding plan is created when you join
 onboarding:
-  sam_to_bam: "Edge computing"
+  sam_to_bam: "Learn react"
   bam: "Help interns learn about Golang"
-  # your key results over the next week/month/quarter
+  # your manager will help fill this out with you to determine the best use of your time to get onboarded quickly
+  # and contributing to the team quickly
   week:
     - "Take a udacity course about Advanced AI"
   month:
@@ -42,3 +44,15 @@ onboarding:
     - "Present at IEEE"
   # list a person inside or outside the company who can help you achieve your plan
   mentor: "Dave"
+# Personal Development plan, created during your career discussions or your evaluation period after your start date
+pdp:
+  # career goal.  Additional improvements to help your career
+  goals:
+    career: "I can turn off an entire datacenter and survive"
+    sam_to_bam: "Datacenter monitoring"
+    bam: "Build out Go foundational libraries"
+  # list at least 2 things Packet can be doing to help
+  support:
+    - "Run me on bigger hardware"
+    - "Attend machine learning courses"
+  # your plan will be created in Lattice and updates can be made there
