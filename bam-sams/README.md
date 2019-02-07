@@ -1,6 +1,6 @@
 ## Be a mentor / Seek a mentor (Bam/Sams)
 
-The concept of a bam/sam is to what we consider a more modern and dynamic version of a "resume".  It also fits with our core beavhior of "seek learning, be uncomfortable".  We want to encourge a culture of mentorship where we can learn from each other and find ways to grow our skills.  We take this bam/sam, and then create both an on-boarding guide based on that, as well as a personal development plan to grow your skills and capabilities.  For candidates and employees alike, we store this info in a private repo but you can see the examples below, along with some examples.
+The concept of a bam/sam is to what we consider a more modern and dynamic version of a "resume".  It also fits with our core behavior of "seek learning, be uncomfortable".  We want to encourge a culture of mentorship where we can learn from each other and find ways to grow our skills.  First we collect this bam/sam before any onsite/full interviews, and ask questions based on it.  Second, we create both an on-boarding guide based on that, as well as a personal development plan to grow your skills and capabilities.  For candidates and employees alike, we store this info in a private repo but you can see the examples below, along with some examples.
 
 Let's take a closer look at our template.yml
 
