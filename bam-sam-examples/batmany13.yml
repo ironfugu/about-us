@@ -41,32 +41,23 @@ sam:
     - React
     - Angular
     - NodeJS
-# Personal Development plan, created when you join or during your career discussion
-pdp:
-  # Goals and objects
-  goals:
-    career: "Build a world-class software engineering organization focused on customers and continuous value delivery"
-    sam_to_bam: "Gain more hardware / hosting experience"
-    bam: "SuS team all feel comfortable breaking down large tasks into weekly deliverables"
-  # list at least 2 things Packet can be doing to help
-  support:
-    - "Budget for training software like Pluralsight and attending relevant meetups"
-    - "Help identify oppurtunities where I can present or give talks"
-    - "Be involved earlier in deals, introduced to customers"
-  # Come up with plan, what you can do within a week, a month and a quarter to achieve your goals
-  # We will track your progress in Lattice
-  plan:
-    week:
-      - "Read Measure What Matters"
-      - "Understand how JIRA analytics work, how do we track lead times and developer flow"
-    month:
-      - "Read 3 management books (Team of Teams, The Manager's Path, Radical Candor)"
-      - "Do a day's work at SJC1"
-      - "Be in support for a week"
-      - "Determine accurate lead times for SuS"
+# The onboarding plan is created when you join
+onboarding:
+  sam_to_bam:
+    - "Understand the Packet Business"
+    - "Gain more hardware / hosting experience"
+  bam: 
+    - "Mentor managers on how to build autonomy/master/purpose with the team"
+    - "Value minded software model"
+  week:
+    - "Have 1:1s with immediate team"
+  month:
+    - "Do a day's work at SJC1"
+    - "Be "goalie" for a week"
+    - "Have 1:1s with the whole team"
     quarter:
-      - "Measuring every team based on their OKRs"
-      - "Educate Ops, Sales, Support, Product and Executive team on dev process"
-      - "Ensure 80% of items in our fixed-delivery or roadmap or delivered"
-    # list a person inside or outside the company who can help you achieve your plan
-    mentor: ""
+    - "Measuring every team based on their OKRs"
+    - "Educate Ops, Sales, Support, Product and Executive team on dev process"
+    - "Ensure 80% of items in our fixed-delivery or roadmap or delivered"
+  # list a person inside or outside the company who can help you achieve your plan
+  mentor: "Dave"

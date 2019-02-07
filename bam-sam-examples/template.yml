@@ -29,25 +29,16 @@ sam:
     - Rust
   frameworks/libraries/concepts:
     - React
-# Personal Development plan, created when you join or during your career discussion
-pdp:
-  # Goals and objects
-  goals:
-    career: "I can turn off an entire datacenter and survive"
-    sam_to_bam: "Edge computing"
-    bam: "Help interns learn about Golang"
-  # list at least 2 things Packet can be doing to help
-  support:
-    - "Run me on bigger hardware"
-    - "Attend machine learning courses"
-  # Come up with plan, what you can do within a week, a month and a quarter to achieve your goals
-  # We will track your progress in Lattice
-  plan:
-    week:
-      - "Take a udacity course about Advanced AI"
-    month:
-      - "Run algorithms on GCP and Azure"
-    quarter:
-      - "Present at IEEE"
-    # list a person inside or outside the company who can help you achieve your plan
-    mentor: "Dave"
+# The onboarding plan is created when you join
+onboarding:
+  sam_to_bam: "Edge computing"
+  bam: "Help interns learn about Golang"
+  # your key results over the next week/month/quarter
+  week:
+    - "Take a udacity course about Advanced AI"
+  month:
+    - "Run algorithms on GCP and Azure"
+  quarter:
+    - "Present at IEEE"
+  # list a person inside or outside the company who can help you achieve your plan
+  mentor: "Dave"
