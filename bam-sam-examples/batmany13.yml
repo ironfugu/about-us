@@ -41,28 +41,6 @@ sam:
     - React
     - Angular
     - NodeJS
-# The onboarding plan is created when you join
-onboarding:
-  sam_to_bam:
-    - "Understand the Packet Business"
-    - "Gain more hardware / hosting experience"
-  bam: 
-    - "Mentor managers on how to build autonomy/master/purpose with the team"
-    - "Value minded software model"
-  # your manager will help fill this out with you to determine the best use of your time to get onboarded quickly
-  # and contributing to the team quickly
-  week:
-    - "Have 1:1s with immediate team"
-  month:
-    - "Do a day's work at SJC1"
-    - "Be "goalie" for a week"
-    - "Have 1:1s with the whole team"
-    quarter:
-    - "Measuring every team based on their OKRs"
-    - "Educate Ops, Sales, Support, Product and Executive team on dev process"
-    - "Ensure 80% of items in our fixed-delivery or roadmap or delivered"
-  # list a person inside or outside the company who can help you achieve your plan
-  mentor: "Dave"
 # Personal Development plan, created when you join or during your career discussion
 pdp:
   # Goals and objectives
@@ -75,4 +53,4 @@ pdp:
     - "Budget for training software like Pluralsight and attending relevant meetups"
     - "Help identify oppurtunities where I can present or give talks"
     - "Be involved earlier in deals, introduced to customers"
-  # your plan will be created in Lattice and updates can be made there
+  # your plan will be created in Lattice and updates can be made there.  It will take an "OKR" type format
