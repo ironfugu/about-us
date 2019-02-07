@@ -24,10 +24,10 @@ bam:
     - Being Awesome
     - Making the internet a better place
   languages/paradigms:
-    # Specify ['what', level], level 1-10 (1 being justed learned, 10 you can give a talk about it)
-    - [RocketLang, 10]
-    - [Go, 9]
-    - [Ruby, 8]
+    # Specify ["what", 1], level 1-10 (1 being justed learned, 10 you wrote/contributed to the language)
+    - ["RocketLang", 10]
+    - ["Go", 9]
+    - ["Ruby", 8]
   frameworks/libraries/concepts:
     # list in order of most recent
     - None
