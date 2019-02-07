@@ -8,7 +8,7 @@ Let's take a closer look at our template.yml
 
 There are 3 main sections, an "about", "bam" and "sam".  You can see the details below.
 
-```javascript
+```json
 about:
   name: Packet Bot
   location: The Internets
@@ -47,7 +47,7 @@ sam:
 
 This section is created by your manager before you start at Packet.  The idea here is to have a clear onboarding plan, and how you can get ramped up but also contribute to Packet quickly.
 
-```javascript
+```json
 # The onboarding plan is created when you join
 onboarding:
   sam_to_bam: "Learn react"
@@ -69,7 +69,7 @@ onboarding:
 
 PDP is created after you initial evlauation period, or our yearly career discussions (which we check up on quarterly.  Note that the updates will be handled through Lattice.
 
-```javascript
+```json
 # Personal Development plan, created during your career discussions or your evaluation period after your start date
 pdp:
   # career goal.  Additional improvements to help your career
