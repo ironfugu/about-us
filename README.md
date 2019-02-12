@@ -14,7 +14,7 @@ Welcome to our development culture document.  Here describes how we view the wor
 
 ### Our Team Culture
 
-Teammates driven by [Autonomy, Mastery and Purpose](https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_About_What_Motivates_Us) working together with [psychological saftey](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) is the basis for everything we do.
+Teammates driven by [Autonomy, Mastery and Purpose](https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_About_What_Motivates_Us) working together with [psychological safety](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) is the basis for everything we do.
 
 ### Done right through Core Behaviors
 
@@ -86,20 +86,46 @@ DevOps Culture| Everyone should know how stuff runs and keep an eye that service
 
 We've adapted the "Spotify" [model](https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf) for scaling our teams.  We have a few squads and are still experimenting with the right mix of people and skillsets.
 
-Squad Name    | Main Focus | SLO | Squad Lead
-:-------------|----------- | --- | -------------
-[X-force](https://packet.atlassian.net/secure/RapidBoard.jspa?rapidView=60&useStoredSettings=true) | Customer Management and Overall Experience | [API Apdex](https://synthetics.newrelic.com/accounts/45249/monitors/ee8b6b9b-7373-411d-a801-67708572e293/sla?view=daily-sla-report) | Linda
-[Suicide Squad](https://packet.atlassian.net/secure/RapidBoard.jspa?rapidView=61&useStoredSettings=true) (SuS) | Compute Products, Provisioning | [Successful Provision % (internal)](https://northstar.packet.net/d/71i_Y0Jmz/vip-provision-metrics?orgId=1), [Customer Data Only (internal)](https://northstar.packet.net/d/RP-qZ82iz/northstar-dashboard-pusher-data-customer-only) | Lucas
-[Network Warriors]() | Network Products & Automation | TBD | Patrick
-[Deadlift](https://packet.atlassian.net/secure/RapidBoard.jspa?rapidView=65) | Production Engineering | [API & Network Availability]() | Phil
+A Squad is the smallest group of people, which is usually no bigger than 8 members. They are responsible for one key area. The Squad members have end-to-end responsibility. The freedom of their choices and decisions is limited by the company’s mission and by the product strategy. The Product Owner decides on the hierarchy of priorities for Squad members. They are responsible for small and frequent releases.
+Each Squad has professionals which specialize in certain areas. All these people, who have the same responsibilities in separate Squads, are gathered in a group called a Chapter. An Engineering Manager is a line manager here. Everyone is a member of both a Squad and Chapter.
 
-__Proposed Future Squads__
+__Our Chapters__ 
+
+Responsibilities| Engineering Manager
+:-------------| ------------- 
+Backend/API/Microservices (Software) |Josue
+UX/UI (Software) | Linda
+Infra Architect | Bruce
+PE (OS, firmware, SRE) |Ben
+Network Architecture | Adam
+
+__Squad Composition__
+
+Roles| Description
+:-------------| ------------- 
+Product Owner (Product) | Interfaces with the business and the squad leader, determines priorities and roadmap
+Tech Team leader (Software) | Translates the product into software execution plan and lead the team technically
+Infra Architect | Develops the product technical design
+Backend engineer (Software) | API and Microservice development
+Frontend engineer (Software) | Portal work
+PE | Operation tooling and automation
+
+
+__Our Squads__
+
+Squad Name    | Main Focus | SLO 
+:-------------|----------- | ---  
+[X-force](https://packet.atlassian.net/secure/RapidBoard.jspa?rapidView=60&useStoredSettings=true) | Customer Management and Overall Experience | [API Apdex](https://synthetics.newrelic.com/accounts/45249/monitors/ee8b6b9b-7373-411d-a801-67708572e293/sla?view=daily-sla-report) 
+[Suicide Squad](https://packet.atlassian.net/secure/RapidBoard.jspa?rapidView=61&useStoredSettings=true) (SuS) | Compute Products, Provisioning | [Successful Provision % (internal)](https://northstar.packet.net/d/71i_Y0Jmz/vip-provision-metrics?orgId=1), [Customer Data Only (internal)](https://northstar.packet.net/d/RP-qZ82iz/northstar-dashboard-pusher-data-customer-only) 
+[Network Warriors]() | Network Products & Automation | TBD 
+[Deadlift](https://packet.atlassian.net/secure/RapidBoard.jspa?rapidView=65) | Production Engineering | [API & Network Availability]() 
+[CMR](https://packet.atlassian.net/secure/RapidBoard.jspa?rapidView=66&projectKey=SWE) | Usage & Billing, Business Processes Automation | TBD
+
+__Future Squads__
 
 These are teams that require more focused attention but don't have the critical mass yet for a well functioning team.
-
 Squad Name    | Main Focus | SLO | Squad Lead
 :-------------|----------- | --- | -------------
-[CMR](https://packet.atlassian.net/secure/RapidBoard.jspa?rapidView=66&projectKey=SWE) | Usage & Billing | TBD | TBD
 [ICP]() | Asset Management | TBD | TBD
 [Dev Exp]() | Building World-class APIs, scalable API/data model | TBD | TBD
 
