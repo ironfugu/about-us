@@ -10,7 +10,7 @@ Most of these should be doable in 2-4 hours of time.  If the person is remote, I
   * Care - Did you care to do a good job?  Did the code base pass the "sniff" test?
   * Small Steps - is your code built in an iterative way?
   * Listen, Collab - did you read the challenge carefully and ask questions when things were unclear?
-  * Honest Feedback - did you provide insightful feedback to us?
+  * Feedback - did you provide insightful feedback to us?
   * Seek learning - Did you explore and try different techniques for your code?  Were you able to read the instructions and fill in the gaps independently?
 
 ### Challenges

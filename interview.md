@@ -9,18 +9,20 @@
 
 #### Technical Process
 
-* Technical Coding Fun : A [challenge](tech_1.md) lasting a few hours.  This is done ahead of time to alleviate undue time pressure, vet you for these [skills](https://github.com/packethost/about-us/blob/master/coding_fun.md#what-are-we-testing) and make the language interview a bit more interactive.  If you don't have a personal computer to use, a separate challenge can be arranged. If you are interviewing as an intern the technical challenge can be done over a longer period given classes and experience.
+* Technical Coding Fun - you will be presented with 3 options
+  * Take Home Version - Complete the [challenge](tech_1.md) at your own leisure.  This is good for people who don't like to work in a "pressure packed" situation or like to work on something at their own pace (Preferred)
+  * Zoom Version - Complete the [challenge](tech_1.md) during your Remote/Onsite interview.  You will be given 2 hours, and thus extend your interview.  For zoom interview, you will need to share your screen and we'll record it.  Good if you have limited time or like the pressure :).
 
-* Remote - This process may span a week, but ideally be done within a couple of days
+* Remote - This is done over Zoom
     * Interview 1 : Core Behaviors Review (1 hour)
-    * Interview 2 : System Design / Architecture Review (1 hour, full-time only)
+    * Interview 2 : System Design / Architecture Review (1 hour)
     * Interview 3 : Language/Framework Specific (1 hour)
 * Onsite - This would typically be an entire day at one of our offices.
     * Interview 1 : Core Behaviors Review (1 hour)
-    * Interview 2 : System Design / Architecture Review (1 hour, full-time only)
+    * Interview 2 : System Design / Architecture Review (1 hour)
     * Interview 3 : Language/Framework Specific (1 hour)
     * Lunch : Casual lunch with some team members (1 hour)
-* Intern - This process may span a week, but ideally be done within a couple of days
+* Intern
     * Interview 1 : Core Behaviors Review (30 minutes)
     * Interview 2 : Language/Framework Specific (30 minutes)
 

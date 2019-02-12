@@ -9,7 +9,6 @@ Your goal is to build an integration with our API.  Please review the instructio
 * Review our [API docs](https://www.packet.com/developers/api/)
   * Understand [auth](https://www.packet.com/developers/api/#authentication)
   * Know the available [OSes](https://www.packet.com/developers/api/#operatingsystems)
-  * Understand [capacity](https://www.packet.com/developers/api/#capacity)
   * [Devices](https://www.packet.com/developers/api/#devices) is the main api you'll need
 * Receive an API token for this challenge
   * This will be under our "Interview" project id : ca73364c-6023-4935-9137-2132e73c20b4
@@ -34,4 +33,11 @@ The token you have is on a "project" token, so you will need to add the project 
 
 ### What are we testing?
 
-Read [this](https://github.com/packethost/about-us/blob/master/coding_fun.md#what-are-we-testing)
+* Technical Acumen, can you actually code :)
+* Given a consistent environment, how do you perform vs others?
+* But even more importantly did you do it with the right [Core Behaviors](https://github.com/packethost/about-us#done-right-through-core-behaviors)
+  * Care - Did you care to do a good job?  Did the code base pass the "sniff" test?
+  * Small Steps - is your code built in an iterative way?
+  * Listen, Collab - did you read the challenge carefully and ask questions when things were unclear?
+  * Feedback - did you provide insightful feedback to us?
+  * Seek learning - Did you explore and try different techniques for your code?  Were you able to read the instructions and fill in the gaps independently?
