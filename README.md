@@ -116,9 +116,9 @@ __Our Squads__
 Squad Name    | Main Focus | SLO 
 :-------------|----------- | ---  
 [X-force](https://packet.atlassian.net/secure/RapidBoard.jspa?rapidView=60&useStoredSettings=true) | Customer Management and Overall Experience | [API Apdex](https://synthetics.newrelic.com/accounts/45249/monitors/ee8b6b9b-7373-411d-a801-67708572e293/sla?view=daily-sla-report) 
-[Suicide Squad](https://packet.atlassian.net/secure/RapidBoard.jspa?rapidView=61&useStoredSettings=true) (SuS) | Compute Products, Provisioning | [Successful Provision % (internal)](https://northstar.packet.net/d/71i_Y0Jmz/vip-provision-metrics?orgId=1), [Customer Data Only (internal)](https://northstar.packet.net/d/RP-qZ82iz/northstar-dashboard-pusher-data-customer-only) 
-[Network Warriors]() | Network Products & Automation | TBD 
-[Deadlift](https://packet.atlassian.net/secure/RapidBoard.jspa?rapidView=65) | Production Engineering | [API & Network Availability]() 
+[Suicide Squad](https://packet.atlassian.net/secure/RapidBoard.jspa?rapidView=83&projectKey=SWE) (SuS) | Compute Products, Provisioning | [Successful Provision % (internal)](https://northstar.packet.net/d/71i_Y0Jmz/vip-provision-metrics?orgId=1), [Customer Data Only (internal)](https://northstar.packet.net/d/RP-qZ82iz/northstar-dashboard-pusher-data-customer-only)
+[Network Warriors](https://packet.atlassian.net/secure/RapidBoard.jspa?rapidView=74&projectKey=SWE) | Network Products & Automation | TBD
+[Deadlift](https://packet.atlassian.net/secure/RapidBoard.jspa?rapidView=65) | Production Engineering | [Infrastructure & Network Availability]()
 [CMR](https://packet.atlassian.net/secure/RapidBoard.jspa?rapidView=66&projectKey=SWE) | Usage & Billing, Business Processes Automation | TBD
 
 __Future Squads__
