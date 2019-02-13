@@ -95,7 +95,7 @@ Responsibilities| Engineering Manager
 :-------------| ------------- 
 Backend/API/Microservices (Software) |Josue
 UX/UI (Software) | Linda
-Infra Architect | Bruce
+Infra Specialists (Provisioning/DC Ops/Asset/Network) | Bruce (Pending Mgr Hire)
 PE (OS, firmware, SRE) |Ben
 Network Architecture | Adam
 
@@ -124,10 +124,11 @@ Squad Name    | Main Focus | SLO
 __Future Squads__
 
 These are teams that require more focused attention but don't have the critical mass yet for a well functioning team.
+
 Squad Name    | Main Focus | SLO | Squad Lead
 :-------------|----------- | --- | -------------
-[ICP]() | Asset Management | TBD | TBD
-[Dev Exp]() | Building World-class APIs, scalable API/data model | TBD | TBD
+[ICP]() | Asset Management (lives in SuS) | TBD | TBD
+[Dev Exp]() | Building World-class APIs, scalable API/data model (in API Chapter) | TBD | TBD
 
 ### Resources
 
