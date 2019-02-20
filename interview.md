@@ -29,8 +29,8 @@
  #### Design Process
 
 * Design Fun - you will be presented with 3 options
-  * Take Home Version - Complete the challenge at your own leisure.  This is good for people who don't like to work in a "pressure packed" situation or like to work on something at their own pace (Preferred)
-  * Zoom Version - Complete the challenge during your Remote/Onsite interview.  You will be given 2 hours, and thus extend your interview.  For zoom interview, you will need to share your screen and we'll record it.  Good if you have limited time or like the pressure :).
+  * Take Home Version - Complete the [challenge](https://github.com/packethost/about-us/blob/master/design_1.md) at your own leisure.  This is good for people who don't like to work in a "pressure packed" situation or like to work on something at their own pace (Preferred)
+  * Zoom Version - Complete the [challenge](https://github.com/packethost/about-us/blob/master/design_1.md) during your Remote/Onsite interview.  You will be given 2 hours, and thus extend your interview.  For zoom interview, you will need to share your screen and we'll record it.  Good if you have limited time or like the pressure :).
 
 * Remote - This is done over Zoom
     * Interview 1 : Core Behaviors Review (1 hour)
