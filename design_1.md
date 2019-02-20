@@ -19,7 +19,7 @@ This is all on the honor system but we didn't need to tell you that ;)
 ### What are we testing?
 
 * Design proficiency, can you actually design :)
-* Given a consistent environment, how do you olve design problems vs others?
+* Given a consistent environment, how do you solve design problems vs others?
 * But even more importantly did you do it with the right [Core Behaviors](https://github.com/packethost/about-us#done-right-through-core-behaviors)
   * Care - Did you care to do a good job?  Did the design approach pass the "sniff" test?
   * Small steps - Is your approach iterative?
