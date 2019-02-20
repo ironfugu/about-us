@@ -4,7 +4,7 @@
 
 * Apply for a [job](https://www.packet.com/about/careers/) which will go through our hiring system.
 * Carefully read our [dev culture](README.md) doc
-* Send us your Bam (Be a Mentor) / Sams (Seek a mentor).  [Examples](bam-sam-examples/) here.  Please use your GitHub handle as the filename.
+* Send us your Bam (Be a Mentor) / Sams (Seek a mentor).  [Examples](bam-sams) here.  Please use your GitHub handle as the filename.
 * Initial Zoom Screen - casual convo about your past experience.  Here are some [example](example_questions.md) questions.
 
 #### Technical Process
