@@ -26,7 +26,7 @@
     * Interview 1 : Core Behaviors Review (30 minutes)
     * Interview 2 : Language/Framework Specific (30 minutes)
     
-   #### Design Process
+ #### Design Process
 
 * Design Fun - you will be presented with 3 options
   * Take Home Version - Complete the challenge at your own leisure.  This is good for people who don't like to work in a "pressure packed" situation or like to work on something at their own pace (Preferred)
