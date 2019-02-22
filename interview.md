@@ -25,7 +25,26 @@
 * Intern
     * Interview 1 : Core Behaviors Review (30 minutes)
     * Interview 2 : Language/Framework Specific (30 minutes)
-    
+
+#### Frontend Process
+
+* Technical Coding Fun
+  * Take Home Version - Complete the [challenge](tech_3.md) at your own leisure.  This is good for people who don't like to work in a "pressure packed" situation or like to work on something at their own pace (Preferred)
+  * Zoom Version - Complete the [challenge](tech_3.md) during your Remote/Onsite interview.  You will be given 2 hours, and thus extend your interview.  For zoom interview, you will need to share your screen and we'll record it.  Good if you have limited time or like the pressure :).
+
+* Remote - This is done over Zoom
+    * Interview 1 : Core Behaviors Review (1 hour)
+    * Interview 2 : System Design / Architecture Review (1 hour)
+    * Interview 3 : Language/Framework Specific (1 hour)
+* Onsite - This would typically be an entire day at one of our offices.
+    * Interview 1 : Core Behaviors Review (1 hour)
+    * Interview 2 : System Design / Architecture Review (1 hour)
+    * Interview 3 : Language/Framework Specific (1 hour)
+    * Lunch : Casual lunch with some team members (1 hour)
+* Intern
+    * Interview 1 : Core Behaviors Review (30 minutes)
+    * Interview 2 : Language/Framework Specific (30 minutes)
+
  #### Design Process
 
 * Design Fun - you will be presented with 3 options
