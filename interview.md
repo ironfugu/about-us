@@ -103,7 +103,7 @@ Emi, Matt     | Ruby on Rails, AngularJS | REST API Related
 Shahar, Philip| Python, PHP, Erlang | SRE/Infrastructure automation, Service orchestration
 Patrick, Tony | Ruby on Rails, Go, ReactJS | SRE/DevOps, Network
 Lucas, Enzo    | Ruby on Rails, AngularJS | REST API Related, Provisioning
-Manny, Victor | Ruby on Rails, Go | Microservices, Provisioning
+Manny | Ruby on Rails, Go | Microservices, Provisioning
 Manny, James | Go, Python | Microservices, Provisioning, OSes
 James, Dave  | Ruby on Rails, Go | Provisioning, Infrastructure Design
 Jessica, Nanang | AngularJS | UI/UX Flow
