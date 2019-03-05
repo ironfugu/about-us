@@ -1,0 +1,32 @@
+about:
+  name: Ironfugu
+  location: The Internets
+  timezone: UTC-00
+  hobbies:
+    - "Endurance sports"
+  favorite_resources:
+    - "Forums"
+# be a mentor
+bam:
+  skills:
+    - Be influential, awesome team
+    - Leadership
+    - See big pictures, be curious
+  languages/paradigms:
+    # Specify ['what', level], level 1-10 (1 being justed learned, 10 you can give a talk about it)
+    - [C, 3]
+    - [Go, 2]
+    - [Shell, 5]
+  frameworks/libraries/concepts:
+    # list in order of most recent
+    - None
+# seek a mentor
+sam:
+  skills:
+    - Getting into more Machine Learning 
+    - Distributed Cloud 
+    - 
+  languages/paradigms:
+    - Go
+  frameworks/libraries/concepts:
+    - Data pipeline platform for machine learning
